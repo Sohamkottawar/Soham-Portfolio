@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Sohamkottawar/Pasc_Frontend_Alumni_2.0",
-    previewUrl: "https://staging-test--alumniportal-test.netlify.app/",
+    previewUrl: "https://alumniportal-test.netlify.app/",
   },
   
 ];
